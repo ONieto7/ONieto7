@@ -157,6 +157,5 @@
 [instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
 [linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
 -----
-Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
 
-Last Edited on: 12/12/2020
+Last Edited on: 25/07/2024
