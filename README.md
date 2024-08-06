@@ -92,11 +92,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo3&theme=dark" />
 </a>
 
-<br><br>
+<br>
+<br>
 <!--END_SECTION_PROJECTS:readme-info-->
 
 
 <!--START_SECTION_LANGUAGE:readme-info-->
+
+<br>
 
 ### :zap: Estadísticas de GitHub
 
