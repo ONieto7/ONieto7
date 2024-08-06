@@ -34,18 +34,13 @@
 - ⚡ Fun fact: I love connecting with different people and seeing what they can offer me
 
 <br>
+<br>
 
 ### Languages and Tools: 
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![My Skills](https://skillicons.dev/icons?i=github,java,js,py,html,css,spring)](https://skillicons.dev)
 
-<br>
+
 <br>
 <br>
 <br>
@@ -63,92 +58,69 @@
 </details> -->
 
 
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+### :zap: Recent GitHub Activity
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<!--START_SECTION:activity-->
+1. 🚀 Creating and updating my personal portfolio.
+2. 🎓 Working on my final course project.
+3. 📚 Starting new training to complement my knowledge.
+
+> "I will be updating and uploading various projects to make my work more visible."
+<!--END_SECTION:activity-->
+
+<br>
+
+### 📚 Knowledge 
+
+- **Java**: Main programming language, experience in developing complete projects.
+- **MySQL**: Knowledge in database management and design.
+- **JavaScript**: Basic knowledge in web development and scripting.
+- **Python**: Upcoming training 📅
+
+<br>
+
+<!--START_SECTION_PROJECTS:readme-info-->
+### 🛠️ Mis Proyectos en Java
+
+<a href="https://github.com/ONieto7/Nombre-Repo1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo1&theme=dark" />
+</a>
+<a href="https://github.com/ONieto7/Nombre-Repo2">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo2&theme=dark" />
+</a>
+<a href="https://github.com/ONieto7/Nombre-Repo3">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo3&theme=dark" />
+</a>
+
+<br><br>
+<!--END_SECTION_PROJECTS:readme-info-->
 
 
+<!--START_SECTION_LANGUAGE:readme-info-->
+
+### :zap: Estadísticas de GitHub
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ONieto7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de GitHub de ONieto7" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONieto7&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes Principales de ONieto7">
 
 <!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true")-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ONieto7&show_icons=true&hide_border=true&theme=dark)
+![Estadísticas de Programación de ONieto7](https://github-readme-stats.vercel.app/api/top-langs/?username=ONieto7&show_icons=true&hide_border=true")-->
 
 <!-- repos
-<a href="https://github.com/Sumanth-Talluri/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Readers-Cabin&theme=dark" />
+<a href="https://github.com/ONieto7/Nombre-Repo1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo1&theme=dark" />
 </a>
-<a href="https://github.com/Sumanth-Talluri/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
+<a href="https://github.com/ONieto7/Nombre-Repo2">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo2&theme=dark" />
 </a>
-<a href="https://github.com/Sumanth-Talluri/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumanth-Talluri&repo=Python-for-Everybody-Specialization&theme=dark" />
+<a href="https://github.com/ONieto7/Nombre-Repo3">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo3&theme=dark" />
 </a>
 -->
 
 <br>
 
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
-<!--END_SECTION:activity-->
 
-<br>
-
-### 📊 &nbsp; STATS
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 1.4 million Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm an early 🐤** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |132 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|27.5%|
-|🌆 Daytime                |176 commits         |![](https://via.placeholder.com/148x22/000000/000000?text=+)![](https://via.placeholder.com/252x22/b8b8b8/b8b8b8?=text=+)|36.67%|
-|🌃 Evening                |147 commits         |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|30.63%|
-|🌙 Night                  |25 commits          |![](https://via.placeholder.com/20x22/000000/000000?text=+)![](https://via.placeholder.com/380x22/b8b8b8/b8b8b8?=text=+)|5.21%|
-| | | | |
-
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-📅 **I'm Most Productive on Thursdays** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Monday                   |89 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.61%|
-|Tuesday                  |62 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.18%|
-|Wednesday                |91 commits          |![](https://via.placeholder.com/60x22/000000/000000?text=+)![](https://via.placeholder.com/340x22/b8b8b8/b8b8b8?=text=+)|14.94%|
-|Thursday                 |110 commits         |![](https://via.placeholder.com/72x22/000000/000000?text=+)![](https://via.placeholder.com/328x22/b8b8b8/b8b8b8?=text=+)|18.06%|
-|Friday                   |82 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.46%|
-|Saturday                 |72 commits          |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|11.82%|
-|Sunday                   |103 commits         |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|16.91%|
-| | | | |
-
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages Python** 
-
-| | | | |
-| --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
-| | | | |
-
-<!--END_SECTION_LANGUAGE:readme-info-->
-
-<br>
-
-
-Last Edited on: 25/07/2024
+Last Edited on: 06/08/2024
