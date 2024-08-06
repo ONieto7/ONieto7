@@ -90,35 +90,9 @@
 
 <br>
 <br>
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-
+<br>
+<!-- Espacios adicionales -->
 <br>
 <br>
-
-### :zap: Estadísticas de GitHub
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ONieto7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de GitHub de ONieto7" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONieto7&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Lenguajes Principales de ONieto7">
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ONieto7&show_icons=true&hide_border=true&theme=dark)
-![Estadísticas de Programación de ONieto7](https://github-readme-stats.vercel.app/api/top-langs/?username=ONieto7&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/ONieto7/Nombre-Repo1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo1&theme=dark" />
-</a>
-<a href="https://github.com/ONieto7/Nombre-Repo2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo2&theme=dark" />
-</a>
-<a href="https://github.com/ONieto7/Nombre-Repo3">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo3&theme=dark" />
-</a>
--->
-
-<br>
-
-
 Last Edited on: 06/08/2024
+
