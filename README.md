@@ -83,7 +83,8 @@
 ### 🛠️ Mis Proyectos en Java
 
 <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo1&theme=dark" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/folder-invoices.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
+  Mis Proyectos en Java
 </a>
 
 <!--END_SECTION_PROJECTS:readme-info-->
@@ -91,8 +92,7 @@
 <br>
 <br>
 <br>
-<!-- Espacios adicionales -->
-<br>
-<br>
+
 Last Edited on: 06/08/2024
+
 
