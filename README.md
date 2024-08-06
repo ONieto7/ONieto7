@@ -82,23 +82,18 @@
 <!--START_SECTION_PROJECTS:readme-info-->
 ### 🛠️ Mis Proyectos en Java
 
-<a href="https://github.com/ONieto7/Nombre-Repo1">
+<a href="https://github.com/ONieto7/Mis-Proyectos-Java">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo1&theme=dark" />
 </a>
-<a href="https://github.com/ONieto7/Nombre-Repo2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo2&theme=dark" />
-</a>
-<a href="https://github.com/ONieto7/Nombre-Repo3">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ONieto7&repo=Nombre-Repo3&theme=dark" />
-</a>
 
-<br>
-<br>
 <!--END_SECTION_PROJECTS:readme-info-->
 
+<br>
+<br>
 
 <!--START_SECTION_LANGUAGE:readme-info-->
 
+<br>
 <br>
 
 ### :zap: Estadísticas de GitHub
