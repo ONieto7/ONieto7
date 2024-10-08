@@ -95,8 +95,6 @@
 <!--END_SECTION_PROJECTS:readme-info-->
 
 <br>
-<br>
-<br>
 
 Last Edited on: 08/10/2024
 
