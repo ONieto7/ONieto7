@@ -45,17 +45,21 @@
 <br>
 <br>
 
-<!--
+### 📊 Estadísticas de GitHub
+
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Ver estadísticas de GitHub</summary>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Lakshya's Github Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ONieto7&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
-<br>
+</details>
+
+<details>
+  <summary>Ver lenguajes más utilizados</summary>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONieto7&show_icons=true&hide_border=true&theme=radical" alt="Lenguajes de GitHub">
 </p>
-</details> -->
+</details>
 
 
 ### :zap: Recent GitHub Activity
