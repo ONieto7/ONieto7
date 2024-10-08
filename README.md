@@ -73,9 +73,9 @@
 ### 📚 Knowledge 
 
 - **Java**: Main programming language, experience in developing complete projects.
+- **Python**: Expanding my knowledge and becoming familiar with the syntax
 - **MySQL**: Knowledge in database management and design.
 - **JavaScript**: Basic knowledge in web development and scripting.
-- **Python**: Upcoming training 📅
 
 <br>
 
