@@ -38,7 +38,7 @@
 
 ### Languages and Tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=github,java,js,py,html,css,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,java,python,js,py,html,css,spring)](https://skillicons.dev)
 
 
 <br>
