@@ -62,7 +62,7 @@
   
 <!--START_SECTION:activity-->
 1. 🚀 Creating and updating my personal portfolio.
-2. 🎓 Working on my final course project.
+2. 🎓 Looking for internship opportunities.
 3. 📚 Starting new training to complement my knowledge.
 
 > "I will be updating and uploading various projects to make my work more visible."
