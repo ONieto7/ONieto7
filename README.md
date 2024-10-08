@@ -92,6 +92,11 @@
   Mis Proyectos en Java
 </a>
 
+<a href="https://github.com/ONieto7/Se-or_de_los_Anillos.git">
+  <img src="https://img.icons8.com/ios-filled/50/000000/folder-invoices.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
+  Señor de los Anillos
+</a>
+
 <!--END_SECTION_PROJECTS:readme-info-->
 
 <br>
