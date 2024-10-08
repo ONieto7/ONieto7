@@ -43,7 +43,7 @@
 
 <br>
 <br>
-<br>
+
 
 ### 📊 Estadísticas de GitHub
 
@@ -61,6 +61,7 @@
 </p>
 </details>
 
+<br>
 
 ### :zap: Recent GitHub Activity
   
