@@ -91,6 +91,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
+        <!-- Cambié el icono estático por el GIF -->
         <img src="https://raw.githubusercontent.com/ONieto7/ONieto7/main/icons8-abrir-carpeta.gif" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
         <br>Mis Proyectos en Java
       </a>
@@ -106,8 +107,6 @@
 <!--END_SECTION_PROJECTS:readme-info-->
 
 
-
-
-
 <br><br><br>
+
 Last Edited on: 29/11/2024
