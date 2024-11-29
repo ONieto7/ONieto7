@@ -20,8 +20,8 @@
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
 
 ### I am a Developer
-- 🔭 I’m currently working on my Portfolio Website
-- 🌱 I’m currently learning Java Development
+- 🔭 I’m currently working on code maintenance and debugging at a consulting firm.
+- 🌱 I continue pushing my boundaries with new knowledge in HTML and CSS.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Find opportunities to grow as a developer and demonstrate my value
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -34,7 +34,7 @@
 
 ### Languages and Tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=github,java,python,js,py,html,css,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,java,spring,mysql,vscode,html,css,angular,js,py)](https://skillicons.dev)
 
 
 <br>
