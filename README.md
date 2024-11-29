@@ -63,7 +63,7 @@
   
 <!--START_SECTION:activity-->
 1. 🚀 Creating and updating my personal portfolio.
-2. 🎓 Looking for internship opportunities.
+2. 🎓 Organizing my code for clearer presentations.
 3. 📚 Starting new training to complement my knowledge.
 
 "I will be updating and uploading various projects to make my work more visible."
@@ -74,9 +74,9 @@
 ### 📚 Knowledge 
 
 - **Java**: Main programming language, experience in developing complete projects.
-- **Python**: Expanding my knowledge and becoming familiar with the syntax
+- **Spring Boot**: Experience building REST APIs and working with dependency injection and annotations.
 - **MySQL**: Knowledge in database management and design.
-- **JavaScript**: Basic knowledge in web development and scripting.
+- **HTML & css**: Proficient in creating responsive and well-structured web interfaces.
 
 <br>
 
