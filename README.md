@@ -31,7 +31,7 @@
 - ⚡ Fun fact: I love connecting with different people and seeing what they can offer me
 <!--END_SECTION:personal-info--> 
 
-
+<br>
 
 <!--START_SECTION:tools-->
 ### Languages and Tools: 
@@ -39,7 +39,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,java,spring,mysql,vscode,html,css,angular,js,py)](https://skillicons.dev)
 <!--END_SECTION:tools-->
 
-
+<br>
 
 <!--START_SECTION:statistics-->
 ### 📊 GitHub Statistics  
@@ -59,7 +59,7 @@
 </details>  
 <!--END_SECTION:statistics-->
 
-
+<br>
 
 <!--START_SECTION:activity-->
 ### :zap: Recent GitHub Activity
@@ -71,7 +71,7 @@
 "I will be updating and uploading various projects to make my work more visible."
 <!--END_SECTION:activity-->
 
-
+<br>
 
 <!--START_SECTION:knowledge-->
 ### 📚 Knowledge 
@@ -82,7 +82,7 @@
 - **HTML & css**: Proficient in creating responsive and well-structured web interfaces.
 <!--END_SECTION:knowledge-->
 
-
+<br>
 
 <!--START_SECTION_PROJECTS:readme-info-->
 ### 🛠️ Mis Proyectos en Java
@@ -96,7 +96,5 @@
   Señor de los Anillos
 </a>
 <!--END_SECTION_PROJECTS:readme-info-->
-
+<br><br><br>
 Last Edited on: 29/11/2024
-
-
