@@ -31,7 +31,7 @@
 - ⚡ Fun fact: I love connecting with different people and seeing what they can offer me
 <!--END_SECTION:personal-info--> 
 
-<br><br><br><br>
+<br><br><br>
 
 <!--START_SECTION:tools-->
 ### Languages and Tools: 
@@ -39,6 +39,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,java,spring,mysql,vscode,html,css,angular,js,py)](https://skillicons.dev)
 <!--END_SECTION:tools-->
 
+<br><br>
 
 <!--START_SECTION:statistics-->
 ### 📊 GitHub Statistics  
@@ -58,6 +59,8 @@
 </details>  
 <!--END_SECTION:statistics-->
 
+<br><br>
+
 <!--START_SECTION:activity-->
 ### :zap: Recent GitHub Activity
   
@@ -67,6 +70,8 @@
 
 "I will be updating and uploading various projects to make my work more visible."
 <!--END_SECTION:activity-->
+
+<br><br><br>
 
 <!--START_SECTION:knowledge-->
 ### 📚 Knowledge 
