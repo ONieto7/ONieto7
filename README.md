@@ -91,19 +91,20 @@
   <tr>
     <td align="center">
       <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
-        <img src="https://img.icons8.com/ios-filled/50/000000/folder-invoices.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
+        <img src="https://www.flaticon.com/icons/png/512/25/25231.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
         <br>Mis Proyectos en Java
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/ONieto7/Se-or_de_los_Anillos.git">
-        <img src="https://img.icons8.com/ios-filled/50/000000/folder-invoices.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
+        <img src="https://www.flaticon.com/icons/png/512/25/25231.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
         <br>Señor de los Anillos
       </a>
     </td>
   </tr>
 </table>
 <!--END_SECTION_PROJECTS:readme-info-->
+
 
 <br><br><br>
 Last Edited on: 29/11/2024
