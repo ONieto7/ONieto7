@@ -8,8 +8,6 @@
 </p>
 
 <p align="center">
-<br>
-
 <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -21,7 +19,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
 
 ### I am a Developer
 - 🔭 I’m currently working on my Portfolio Website
@@ -70,7 +68,7 @@
 2. 🎓 Looking for internship opportunities.
 3. 📚 Starting new training to complement my knowledge.
 
-> "I will be updating and uploading various projects to make my work more visible."
+"I will be updating and uploading various projects to make my work more visible."
 <!--END_SECTION:activity-->
 
 <br>
