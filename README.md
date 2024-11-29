@@ -31,6 +31,8 @@
 - ⚡ Fun fact: I love connecting with different people and seeing what they can offer me
 <!--END_SECTION:personal-info--> 
 
+<br><br><br><br>
+
 <!--START_SECTION:tools-->
 ### Languages and Tools: 
 
