@@ -89,19 +89,20 @@
 
 <p align="center">
   <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
-    <img src="https://raw.githubusercontent.com/ONieto7/ONieto7/main/icons8-abrir-carpeta.gif" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
+    <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
     <br>Mis Proyectos en Java
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ONieto7/Se-or_de_los_Anillos.git">
-    <img src="https://raw.githubusercontent.com/ONieto7/ONieto7/main/icons8-abrir-carpeta.gif" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
+    <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
     <br>Señor de los Anillos
   </a>
 </p>
 
 <!--END_SECTION_PROJECTS:readme-info-->
+
 
 
 
