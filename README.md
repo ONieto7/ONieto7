@@ -2,8 +2,8 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Oscar 👋</b></h1>
 </p>
-<p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+<p> 
+  <h4 align="center"><b>"Powered by coffee, code, and determination."</b></h4> 
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/">
@@ -87,7 +87,6 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/folder-invoices.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
   Mis Proyectos en Java
 </a>
-
 <a href="https://github.com/ONieto7/Se-or_de_los_Anillos.git">
   <img src="https://img.icons8.com/ios-filled/50/000000/folder-invoices.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
   Señor de los Anillos
@@ -98,6 +97,6 @@
 <br>
 <br>
 
-Last Edited on: 08/10/2024
+Last Edited on: 29/11/2024
 
 
