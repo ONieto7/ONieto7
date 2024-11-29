@@ -1,12 +1,10 @@
-  ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
   <h1 align="center"><b>Hello there, I'm Oscar 👋</b></h1>
 </p>
-
 <p>
   <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
 </p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
