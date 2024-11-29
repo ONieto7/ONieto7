@@ -19,6 +19,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
 
+<!--START_SECTION:personal-info-->
 ### I am a Developer
 - 🔭 I’m currently working on code maintenance and debugging at a consulting firm.
 - 🌱 I continue pushing my boundaries with new knowledge in HTML and CSS.
@@ -28,40 +29,36 @@
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/" target="_blank">Let’s get in touch!</a>
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people and seeing what they can offer me
+<!--END_SECTION:personal-info--> 
 
-<br>
-<br>
-
+<!--START_SECTION:tools-->
 ### Languages and Tools: 
 
 [![My Skills](https://skillicons.dev/icons?i=github,java,spring,mysql,vscode,html,css,angular,js,py)](https://skillicons.dev)
+<!--END_SECTION:tools-->
 
 
-<br>
-<br>
+<!--START_SECTION:statistics-->
+### 📊 GitHub Statistics  
 
+<details>  
+  <summary>View GitHub Stats</summary>  
+<p align='center'>  
+  <img src="https://github-readme-stats.vercel.app/api?username=ONieto7&show_icons=true&theme=radical" alt="GitHub Stats">  
+</p>  
+</details>  
 
-### 📊 Estadísticas de GitHub
+<details>  
+  <summary>View Most Used Languages</summary>  
+<p align='center'>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONieto7&show_icons=true&hide_border=true&theme=radical" alt="GitHub Languages">  
+</p>  
+</details>  
+<!--END_SECTION:statistics-->
 
-<details>
-  <summary>Ver estadísticas de GitHub</summary>
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ONieto7&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
-</p>
-</details>
-
-<details>
-  <summary>Ver lenguajes más utilizados</summary>
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ONieto7&show_icons=true&hide_border=true&theme=radical" alt="Lenguajes de GitHub">
-</p>
-</details>
-
-<br>
-
+<!--START_SECTION:activity-->
 ### :zap: Recent GitHub Activity
   
-<!--START_SECTION:activity-->
 1. 🚀 Creating and updating my personal portfolio.
 2. 🎓 Organizing my code for clearer presentations.
 3. 📚 Starting new training to complement my knowledge.
@@ -69,16 +66,14 @@
 "I will be updating and uploading various projects to make my work more visible."
 <!--END_SECTION:activity-->
 
-<br>
-
+<!--START_SECTION:knowledge-->
 ### 📚 Knowledge 
 
 - **Java**: Main programming language, experience in developing complete projects.
 - **Spring Boot**: Experience building REST APIs and working with dependency injection and annotations.
 - **MySQL**: Knowledge in database management and design.
 - **HTML & css**: Proficient in creating responsive and well-structured web interfaces.
-
-<br>
+<!--END_SECTION:knowledge-->
 
 <!--START_SECTION_PROJECTS:readme-info-->
 ### 🛠️ Mis Proyectos en Java
@@ -91,11 +86,7 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/folder-invoices.png" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
   Señor de los Anillos
 </a>
-
 <!--END_SECTION_PROJECTS:readme-info-->
-
-<br>
-<br>
 
 Last Edited on: 29/11/2024
 
