@@ -86,29 +86,37 @@
 
 ### 🛠️ Mis Proyectos 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- Primera fila, dos columnas -->
-  <div style="text-align: center; width: 45%;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(2, auto); gap: 20px; justify-items: center;">
+  <!-- Primer proyecto: Columna 1, Fila 1 -->
+  <div style="grid-column: 1; grid-row: 1; text-align: center;">
     <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
       <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
       <br>Proyecto en Java
     </a>
   </div>
-  <div style="text-align: center; width: 45%;">
+
+  <!-- Segundo proyecto: Columna 2, Fila 1 -->
+  <div style="grid-column: 2; grid-row: 1; text-align: center;">
     <a href="https://github.com/ONieto7/Juego_de_Batalla.git">
       <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
       <br>Señor de los Anillos
     </a>
   </div>
 
-  <!-- Segunda fila, una columna -->
-  <div style="text-align: center; width: 100%; margin-top: 20px;">
+  <!-- Tercer proyecto: Columna 1, Fila 2 -->
+  <div style="grid-column: 1; grid-row: 2; text-align: center;">
     <a href="https://github.com/ONieto7/Desarrollo-Web.git">
       <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
       <br>Desarrollo_Web
     </a>
   </div>
+
+  <!-- Espacios vacíos para proyectos futuros -->
+  <div style="grid-column: 2; grid-row: 2;"></div>
+  <div style="grid-column: 3; grid-row: 1;"></div>
+  <div style="grid-column: 3; grid-row: 2;"></div>
 </div>
+
 
 
 <br><br><br>
