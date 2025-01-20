@@ -107,7 +107,6 @@
       </a>
     </td>
   </tr>
-  <!-- 
   <tr>
     <!-- Tercer proyecto: Columna 1, Fila 2 -->
     <td></td>
@@ -116,7 +115,6 @@
     <!-- Espacio vacío: Columna 3, Fila 2 -->
     <td></td>
   </tr> 
-  -->
 </table>
 
 
