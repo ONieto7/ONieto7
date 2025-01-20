@@ -90,7 +90,7 @@
 <p align="center">
   <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
     <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
-    <br>Mis Proyectos en Java
+    <br>Proyecto en Java
   </a>
 </p>
 
@@ -104,7 +104,7 @@
 <p align="center">
   <a href="https://github.com/ONieto7/Desarrollo-Web.git">
     <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta" style="vertical-align:middle;"/>
-    <br>Señor de los Anillos
+    <br>Desarrollo_Web
   </a>
 </p>
 
