@@ -87,26 +87,28 @@
 ### 🛠️ Mis Proyectos 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="text-align: center; width: 30%;">
+  <!-- Primera fila, dos columnas -->
+  <div style="text-align: center; width: 45%;">
     <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
       <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
       <br>Proyecto en Java
     </a>
   </div>
-  <div style="text-align: center; width: 30%;">
+  <div style="text-align: center; width: 45%;">
     <a href="https://github.com/ONieto7/Juego_de_Batalla.git">
       <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
       <br>Señor de los Anillos
     </a>
   </div>
-  <div style="text-align: center; width: 30%;">
+
+  <!-- Segunda fila, una columna -->
+  <div style="text-align: center; width: 100%; margin-top: 20px;">
     <a href="https://github.com/ONieto7/Desarrollo-Web.git">
       <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
       <br>Desarrollo_Web
     </a>
   </div>
 </div>
-
 
 
 <br><br><br>
