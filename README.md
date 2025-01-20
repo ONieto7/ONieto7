@@ -88,31 +88,28 @@
 
 <table>
   <tr>
-    <!-- Primer proyecto: Columna 1, Fila 1 -->
     <td align="center">
       <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
         <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
         Proyecto en Java
       </a>
     </td>
-    <!-- Segundo proyecto: Columna 2, Fila 1 -->
     <td align="center">
       <a href="https://github.com/ONieto7/Juego_de_Batalla.git">
         <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
         Señor de los Anillos
       </a>
     </td>
-    <!-- Espacio vacío: Columna 3, Fila 1 -->
-    <td></td>
-  </tr>
-  <tr>
-    <!-- Tercer proyecto: Columna 1, Fila 2 -->
-    <td align="center">
+   <td align="center">
       <a href="https://github.com/ONieto7/Desarrollo-Web.git">
         <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
         Desarrollo Web
       </a>
     </td>
+  </tr>
+  <tr>
+    <!-- Tercer proyecto: Columna 1, Fila 2 -->
+    <td></td>
     <!-- Espacio vacío: Columna 2, Fila 2 -->
     <td></td>
     <!-- Espacio vacío: Columna 3, Fila 2 -->
