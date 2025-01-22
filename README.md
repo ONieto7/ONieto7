@@ -80,6 +80,7 @@
 - **Spring Boot**: Experience building REST APIs and working with dependency injection and annotations.
 - **MySQL**: Knowledge in database management and design.
 - **HTML & css**: Proficient in creating responsive and well-structured web interfaces.
+- **JavaScript**: Knowledge in creating dynamic functionalities for web pages.
 <!--END_SECTION:knowledge-->
 
 <br>
