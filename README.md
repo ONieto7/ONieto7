@@ -107,17 +107,9 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <!-- Tercer proyecto: Columna 1, Fila 2 -->
-    <td></td>
-    <!-- Espacio vacío: Columna 2, Fila 2 -->
-    <td></td>
-    <!-- Espacio vacío: Columna 3, Fila 2 -->
-    <td></td>
-  </tr> 
 </table>
 
 
 <br><br><br>
 
-Last Edited on: 21/1/2025
+Last Edited on: 22/1/2025
