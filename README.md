@@ -17,7 +17,22 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
+<!-- Imagen para escritorio -->
+<div align="right" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+  <img height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" class="desktop-only" />
+</div>
+
+<!-- Imagen para móvil -->
+<div align="center" style="display: none;" class="mobile-only">
+  <img height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" style="width: 100%; height: auto;" />
+</div>
+
+<script>
+  if (window.innerWidth <= 600) {
+    document.querySelector('.desktop-only').style.display = 'none';
+    document.querySelector('.mobile-only').style.display = 'block';
+  }
+</script>
 
 <!--START_SECTION:personal-info-->
 ### I am a Developer
@@ -29,7 +44,7 @@
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/" target="_blank">Let’s get in touch!</a>
 - 🧗 I try to: I always try to go beyond and push my limits.
 - ⚡ Fun fact: I love connecting with different people and sharing knowledge.
-<!--END_SECTION:personal-info--> 
+<!--END_SECTION:personal-info-->
 
 <br>
 
