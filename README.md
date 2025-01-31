@@ -17,11 +17,48 @@
 
 <br>
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+
+  .container img {
+    max-width: 270px;
+    height: auto;
+    flex-shrink: 0;
+  }
+
+  .text {
+    flex: 1;
+    min-width: 300px;
+  }
+
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .container img {
+      max-width: 100%;
+    }
+
+    .text {
+      min-width: auto;
+    }
+  }
+</style>
+
+<div class="container">
   <img src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" 
-       alt="GIF" width="100%" style="max-width: 270px; height: auto;" />
-  
-  <div style="text-align: left; max-width: 600px;">
+       alt="GIF" />
+
+  <div class="text">
     <h3>I am a Developer</h3>
     <ul style="list-style: none; padding: 0;">
       <li>🔭 I’m currently working on code maintenance and debugging at a consulting firm.</li>
