@@ -17,7 +17,9 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
+<div style="text-align:center;">
+  <img height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" style="max-width:100%; height:auto;" />
+</div>
 
 <!--START_SECTION:personal-info-->
 ### I am a Developer
