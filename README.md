@@ -10,26 +10,31 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:tallurisaisumanth77@gmail.com?subject=Hola%20Sumanth">
+<a href="mailto:oscarniro@gmail.com?subject=Hola%20Sumanth">
   <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 </p>
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
-
-<!--START_SECTION:personal-info-->
-### I am a Developer
-- 🔭 I’m currently working on code maintenance and debugging at a consulting firm.
-- 🌱 I continue pushing my boundaries with new knowledge in HTML and CSS.
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2025 Goals: Find opportunities to grow as a developer and demonstrate my value
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/" target="_blank">Let’s get in touch!</a>
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people and seeing what they can offer me
-<!--END_SECTION:personal-info--> 
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <img src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" 
+       alt="GIF" width="100%" style="max-width: 270px; height: auto;" />
+  
+  <div style="text-align: left; max-width: 600px;">
+    <h3>I am a Developer</h3>
+    <ul style="list-style: none; padding: 0;">
+      <li>🔭 I’m currently working on code maintenance and debugging at a consulting firm.</li>
+      <li>🌱 I continue pushing my boundaries with new knowledge in HTML and CSS.</li>
+      <li>👯 I’m looking to collaborate with other developers.</li>
+      <li>🥅 2025 Goals: Find opportunities to grow as a developer and demonstrate my value.</li>
+      <li>💬 Ask me about anything, I am happy to help 😊</li>
+      <li>📬 How to reach me: <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/" target="_blank">Let’s get in touch!</a></li>
+      <li>🧗 I always try to go beyond and push my limits.</li>
+      <li>⚡ Fun fact: I love connecting with different people and sharing knowledge.</li>
+    </ul>
+  </div>
+</div>
 
 <br>
 
@@ -79,7 +84,7 @@
 - **Java**: Main programming language, experience in developing complete projects.
 - **Spring Boot**: Experience building REST APIs and working with dependency injection and annotations.
 - **MySQL**: Knowledge in database management and design.
-- **HTML & css**: Proficient in creating responsive and well-structured web interfaces.
+- **HTML & CSS**: Proficient in creating responsive and well-structured web interfaces.
 - **JavaScript**: Knowledge in creating dynamic functionalities for web pages.
 <!--END_SECTION:knowledge-->
 
