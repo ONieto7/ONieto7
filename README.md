@@ -1,4 +1,4 @@
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+ ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <p>
   <h1 align="center"><b>Hello there, I'm Oscar 👋</b></h1>
 </p>
@@ -17,61 +17,19 @@
 
 <br>
 
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    text-align: left;
-    flex-wrap: wrap;
-  }
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
 
-  .container img {
-    max-width: 270px;
-    height: auto;
-    flex-shrink: 0;
-  }
-
-  .text {
-    flex: 1;
-    min-width: 300px;
-  }
-
-  @media (max-width: 768px) {
-    .container {
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-
-    .container img {
-      max-width: 100%;
-    }
-
-    .text {
-      min-width: auto;
-    }
-  }
-</style>
-
-<div class="container">
-  <img src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" 
-       alt="GIF" />
-
-  <div class="text">
-    <h3>I am a Developer</h3>
-    <ul style="list-style: none; padding: 0;">
-      <li>🔭 I’m currently working on code maintenance and debugging at a consulting firm.</li>
-      <li>🌱 I continue pushing my boundaries with new knowledge in HTML and CSS.</li>
-      <li>👯 I’m looking to collaborate with other developers.</li>
-      <li>🥅 2025 Goals: Find opportunities to grow as a developer and demonstrate my value.</li>
-      <li>💬 Ask me about anything, I am happy to help 😊</li>
-      <li>📬 How to reach me: <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/" target="_blank">Let’s get in touch!</a></li>
-      <li>🧗 I always try to go beyond and push my limits.</li>
-      <li>⚡ Fun fact: I love connecting with different people and sharing knowledge.</li>
-    </ul>
-  </div>
-</div>
+<!--START_SECTION:personal-info-->
+### I am a Developer
+- 🔭 I’m currently working on code maintenance and debugging at a consulting firm.
+- 🌱 I continue pushing my boundaries with new knowledge in HTML and CSS.
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2025 Goals: Find opportunities to grow as a developer and demonstrate my value
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/" target="_blank">Let’s get in touch!</a>
+- 🧗 I try to: I always try to go beyond and push my limits.
+- ⚡ Fun fact: I love connecting with different people and sharing knowledge.
+<!--END_SECTION:personal-info--> 
 
 <br>
 
