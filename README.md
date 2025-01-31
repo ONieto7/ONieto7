@@ -17,9 +17,23 @@
 
 <br>
 
-<div style="text-align:center;">
-  <img height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" style="max-width:100%; height:auto;" />
+<div align="right" class="responsive-container">
+  <img height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" class="responsive-image" />
 </div>
+
+<style>
+  @media only screen and (max-width: 600px) {
+    .responsive-container {
+      text-align: center;
+    }
+    .responsive-image {
+      display: block;
+      margin: 0 auto;
+      width: 100%;
+      height: auto;
+    }
+  }
+</style>
 
 <!--START_SECTION:personal-info-->
 ### I am a Developer
