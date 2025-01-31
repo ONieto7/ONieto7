@@ -17,15 +17,7 @@
 
 <br>
 
-<!-- Imagen para escritorio -->
-<div align="right" style="display: none;" class="desktop-only">
-  <img height="270px" alt="desktop" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
-</div>
-
-<!-- Imagen para móvil -->
-<div align="center" style="display: block;" class="mobile-only">
-  <img height="270px" alt="mobile" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" style="width: 100%; height: auto;" />
-</div>
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
 
 <!--START_SECTION:personal-info-->
 ### I am a Developer
