@@ -17,15 +17,8 @@
 
 <br>
 
-<!-- Imagen para escritorio -->
-<div align="right" style="display: none;" class="desktop-only">
-  <img height="270px" alt="desktop" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
-</div>
+<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" />
 
-<!-- Imagen para móvil -->
-<div align="center" style="display: block;" class="mobile-only">
-  <img height="270px" alt="mobile" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg" style="width: 100%; height: auto;" />
-</div>
 
 <!--START_SECTION:personal-info-->
 ### I am a Developer
@@ -120,4 +113,4 @@
 
 <br><br><br>
 
-Last Edited on: 02/02/2025
+Last Edited on: 03/02/2025
