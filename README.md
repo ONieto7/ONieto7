@@ -107,10 +107,17 @@
         Desarrollo Web
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/ONieto7/Angular.git">
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
+        Basic Angular
+      </a>
+    </td>
   </tr>
+ 
 </table>
 
 
 <br><br><br>
 
-Last Edited on: 06/02/2025
+Last Edited on: 07/02/2025
