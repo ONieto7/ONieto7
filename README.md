@@ -81,6 +81,7 @@
 - **MySQL**: Knowledge in database management and design.
 - **HTML & CSS**: Proficient in creating responsive and well-structured web interfaces.
 - **JavaScript**: Knowledge in creating dynamic functionalities for web pages.
+- **Python**: Getting familiar with its syntax and basic concepts.
 <!--END_SECTION:knowledge-->
 
 <br>
@@ -90,7 +91,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ONieto7/Mis-Proyectos-Java">
+      <a href="https://github.com/ONieto7/Proyectos_Java">
         <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
         Proyecto en Java
       </a>
@@ -128,4 +129,4 @@
 
 <br><br><br>
 
-Last Edited on: 3/03/2025
+Last Edited on: 4/03/2025
