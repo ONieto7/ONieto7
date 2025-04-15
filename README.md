@@ -22,8 +22,8 @@
 
 <!--START_SECTION:personal-info-->
 ### I am a Fullstack Developer
-- 🔭 I’m currently improving a legacy project (LNRC) by migrating and redesigning the web using modern technologies like Node.js and Express.
-- 🌱 Constantly expanding my skills in frontend (HTML, CSS, JavaScript) and backend (Java, Spring Boot, Node.js).
+- 🔭 I’m currently improving a legacy project (LNRC) by migrating and redesigning the web using modern technologies like Node.js
+- 🌱 Constantly expanding my skills in frontend (HTML, CSS, JavaScript) and backend (Java, Spring Boot, Node.js)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Find opportunities to grow as a developer and demonstrate my value
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -81,7 +81,7 @@
 - **MySQL**: Knowledge in database management and design.
 - **HTML & CSS**: Proficient in creating responsive and well-structured web interfaces.
 - **JavaScript**: Knowledge in creating dynamic functionalities for web pages.
-- - **Node.js**: Familiar with server-side development and asynchronous programming.
+- **Node.js**: Familiar with server-side development and asynchronous programming.
 - **RESTful APIs**: Understanding of API creation and consumption in web applications.
 - **Angular**: Familiar with components, data binding, and SPA structure.
 - **Python**: Getting familiar with its syntax and basic concepts.
