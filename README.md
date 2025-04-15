@@ -3,7 +3,7 @@
   <h1 align="center"><b>Hello there, I'm Oscar 👋</b></h1>
 </p>
 <p> 
-  <h4 align="center"><b>"Powered by coffee, code, and determination."</b></h4> 
+  <h4 align="center"><b>"Driven by code, curiosity, and continuous growth."</b></h4>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/oscar-nieto-romero-a58270190/">
@@ -21,9 +21,9 @@
 
 
 <!--START_SECTION:personal-info-->
-### I am a Developer
-- 🔭 I’m currently working on code maintenance and debugging at a consulting firm.
-- 🌱 I continue pushing my boundaries with new knowledge in HTML and CSS.
+### I am a Fullstack Developer
+- 🔭 I’m currently improving a legacy project (LNRC) by migrating and redesigning the web using modern technologies like Node.js and Express.
+- 🌱 Constantly expanding my skills in frontend (HTML, CSS, JavaScript) and backend (Java, Spring Boot, Node.js).
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Find opportunities to grow as a developer and demonstrate my value
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -81,6 +81,9 @@
 - **MySQL**: Knowledge in database management and design.
 - **HTML & CSS**: Proficient in creating responsive and well-structured web interfaces.
 - **JavaScript**: Knowledge in creating dynamic functionalities for web pages.
+- - **Node.js**: Familiar with server-side development and asynchronous programming.
+- **RESTful APIs**: Understanding of API creation and consumption in web applications.
+- **Angular**: Familiar with components, data binding, and SPA structure.
 - **Python**: Getting familiar with its syntax and basic concepts.
 <!--END_SECTION:knowledge-->
 
