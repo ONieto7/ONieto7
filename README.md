@@ -91,45 +91,54 @@
 
 ### 🛠️ Mis Proyectos 
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="220px">
       <a href="https://github.com/ONieto7/Proyectos_Java">
-        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
-        Proyecto en Java
-      </a>
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
+      </a><br><br>
+      <b>Proyecto en Java</b>
     </td>
-    <td align="center">
-      <a href="https://github.com/ONieto7/Juego_de_Batalla.git">
-        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
-        Proyecto Final
-      </a>
+    <td align="center" width="220px">
+      <a href="https://github.com/ONieto7/Python.git">
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
+      </a><br><br>
+      <b>Python</b>
     </td>
-   <td align="center">
+    <td align="center" width="220px">
       <a href="https://github.com/ONieto7/Desarrollo-Web.git">
-        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
-        Desarrollo Web
-      </a>
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
+      </a><br><br>
+      <b>Desarrollo Web</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/ONieto7/Angular.git">
-        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
-        Basic Angular
-      </a>
+    <td align="center" width="220px">
+      <a href="https://github.com/ONieto7/ZonaCodigo.git">
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
+      </a><br><br>
+      <b>Testing y DevOps</b>
     </td>
-   <td align="center">
-      <a href="https://github.com/ONieto7/Python.git">
-        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/><br>
-        Python
-      </a>
+    <td align="center" width="220px">
+      <a href="https://github.com/ONieto7/Angular.git">
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
+      </a><br><br>
+      <b>Basic Angular</b>
+    </td>
+    <td align="center" width="220px">
+      <a href="https://github.com/ONieto7/Juego_de_Batalla.git">
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
+      </a><br><br>
+      <b>Proyecto Final</b>
     </td>
   </tr>
- 
 </table>
+
+</div>
 
 
 <br><br><br>
 
-Last Edited on: 5/06/2025
+_Last Edited on: 5/06/2025_
