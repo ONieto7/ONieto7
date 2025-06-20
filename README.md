@@ -113,6 +113,12 @@
       </a><br><br>
       <b>Testing y DevOps</b>
     </td>
+    <td align="center" width="220px">
+      <a href="https://github.com/ONieto7/web-clean-code.git">
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
+      </a><br><br>
+      <b>Pruebas</b>
+    </td>
   </tr>
 </table>
 
