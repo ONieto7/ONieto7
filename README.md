@@ -36,7 +36,7 @@
 <!--START_SECTION:tools-->
 ### Languages and Tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=github,java,spring,mysql,vscode,html,css,angular,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,java,spring,mysql,vscode,react,html,css,js,angular,py)](https://skillicons.dev)
 <!--END_SECTION:tools-->
 
 <br>
@@ -79,11 +79,12 @@
 - **Java**: Main programming language, experience in developing complete projects.
 - **Spring Boot**: Experience building REST APIs and working with dependency injection and annotations.
 - **MySQL**: Knowledge in database management and design.
-- **HTML & CSS**: Proficient in creating responsive and well-structured web interfaces.
 - **JavaScript**: Knowledge in creating dynamic functionalities for web pages.
+- **React**: Familiar with components, hooks, and building interactive UIs.
+- **Angular**: Familiar with components, data binding, and SPA structure.
+- **HTML & CSS**: Proficient in creating responsive and well-structured web interfaces.
 - **Node.js**: Familiar with server-side development and asynchronous programming.
 - **RESTful APIs**: Understanding of API creation and consumption in web applications.
-- **Angular**: Familiar with components, data binding, and SPA structure.
 - **Python**: Getting familiar with its syntax and basic concepts.
 <!--END_SECTION:knowledge-->
 
@@ -127,4 +128,4 @@
 
 <br><br><br>
 
-_Last Edited on: 26/06/2025_
+_Last Edited on: 27/06/2025_
