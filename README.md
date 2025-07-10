@@ -83,7 +83,6 @@
 - **React**: Familiar with components, hooks, and building interactive UIs.
 - **Angular**: Familiar with components, data binding, and SPA structure.
 - **HTML & CSS**: Proficient in creating responsive and well-structured web interfaces.
-- **Node.js**: Familiar with server-side development and asynchronous programming.
 - **RESTful APIs**: Understanding of API creation and consumption in web applications.
 - **Python**: Getting familiar with its syntax and basic concepts.
 <!--END_SECTION:knowledge-->
@@ -114,6 +113,12 @@
       </a><br><br>
       <b>Pruebas</b>
     </td>
+   <td align="center" width="220px">
+      <a href="https://github.com/ONieto7/snake-game.git">
+        <img src="https://img.icons8.com/?size=100&id=64045&format=png&color=000000" alt="Ícono de Carpeta"/>
+      </a><br><br>
+      <b>Juego Snake 🐍</b>
+    </td>
   </tr>
 </table>
 
@@ -122,4 +127,4 @@
 
 <br><br><br>
 
-_Last Edited on: 9/07/2025_
+_Last Edited on: 10/07/2025_
